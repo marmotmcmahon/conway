@@ -10,8 +10,8 @@ function createTable(rows, cols) {
   }
   document.write("</table>");
 }
-var totalRows = 10;
-var totalColumns = 10;
+var totalRows = 15;
+var totalColumns = 15;
 var increment = 3000; // Time per cycle
 
 createTable(totalRows, totalColumns);
