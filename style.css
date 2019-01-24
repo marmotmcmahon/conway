@@ -1,0 +1,34 @@
+h1 {
+text-align: center;
+color: black;
+}
+tr, td, table {
+border-style: #3d3d3f solid;
+border-width: 1px;
+background-color: #f9f8fd;
+margin: auto;
+height: 15px;
+width: 800px;
+margin-top: 20px;
+}
+td {
+transition: .1s background-color;
+}
+
+button {
+height: 25px;
+width: 225px;
+margin: 0 auto;
+position: relative;
+top: 50%;
+left: 40%;
+margin-top: -40px;
+}
+
+.alive {
+  background-color: #7dce94;
+}
+
+td {
+  color: #3d3d3f !important;
+}
